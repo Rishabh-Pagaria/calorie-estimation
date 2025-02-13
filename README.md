@@ -13,5 +13,12 @@ This project implements a novel multi-modal deep learning approach for estimatin
   <li><strong>LSTM Encoder:</strong> Analyzes CGM time-series data</li>
   <li><strong>Fusion Network:</strong> Combines features from CNN and LSTM encoders</li>
   <li><strong>Fully Connected Layers:</strong> Produce final calorie prediction</li>
-</ol><br>
-
+</ol>
+<h2>Demo Video</h2>
+<a href="https://www.youtube.com/watch?v=Fon2hM_gY-o">Link</a>
+<h2>Contributors</h2>
+<ul>
+  <li>Rishabh Pagaria
+  <li>Tejas Singhal
+  <li>Hitarth Chopra
+</ul>
